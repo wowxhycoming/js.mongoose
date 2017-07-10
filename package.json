@@ -1,0 +1,16 @@
+{
+  "name": "nodejs.mongoose",
+  "version": "0.0.1",
+  "author": "xxx",
+  "description": "一个学习mongoose的小程序",
+  "keywords": [
+    "node.js",
+    "mongoose"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.10.5",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
+}
